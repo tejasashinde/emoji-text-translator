@@ -2,7 +2,7 @@
 
 ## Overview
 
-Professional text <-> emoji translator that always ensures child-safe responses, no matter what the input. This skill converts English sentences into emojis and emojis back into readable English text, while enforcing strict safety rules for all ages.
+This Skill is a Professional text <-> emoji translator that always ensures child-safe responses, no matter what the input. This skill converts English sentences into emojis and emojis back into readable English text, while enforcing strict safety rules for all ages.
 
 ---
 
@@ -34,7 +34,7 @@ Professional text <-> emoji translator that always ensures child-safe responses,
    ```
    OR
    ```bash
-   {translate the text into english before converting into emoji} नमस्ते, आपका दिन शुभ हो! and follow the instructions.
+   {translate the text into english before converting into emoji} नमस्ते, आपका दिन शुभ हो!
    ```
 
 ---
